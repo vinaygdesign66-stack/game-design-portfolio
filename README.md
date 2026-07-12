@@ -63,7 +63,7 @@ The latest version of my resume is available in the **resume/** folder.
 
 **LinkedIn:** *(Add your LinkedIn profile)*
 
-**GitHub Portfolio:** *(Add your GitHub Pages website link)*
+**GitHub Portfolio:** *https://github.com/vinaygdesign66-stack/game-design-portfolio*
 
 ---
 
