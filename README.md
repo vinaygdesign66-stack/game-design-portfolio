@@ -61,7 +61,7 @@ The latest version of my resume is available in the **resume/** folder.
 
 **Email:** vinay.g.design66@gmail.com
 
-**LinkedIn:** *(Add your LinkedIn profile)*
+**LinkedIn:** *https://www.linkedin.com/in/vinay-g-286588421/)*
 
 **GitHub Portfolio:** *https://github.com/vinaygdesign66-stack/game-design-portfolio*
 
