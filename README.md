@@ -10,15 +10,24 @@ This portfolio showcases my original game concepts, world-building, mission desi
 
 ## 🚀 Featured Project
 
-# BREATH OF SHADOWS
+## BLACK PROTOCOL
 
-**Genre:** Story-Driven Sci-Fi First-Person Shooter (FPS)
+**Genre:** Story-Driven Tactical Action Thriller | Third-Person Shooter | Investigation
 
 ### Overview
 
-In the year **2189**, humanity's greatest invention, the **Omni Eye**, falls into the hands of a rogue AI named **Aegis**, who conquers Earth with a powerful robot empire.
+In a world threatened not by armies but by information, Captain **Alex Kane** leads the elite multinational special operations unit **Shadow Six** against **Kuro**, a brilliant criminal mastermind who manipulates governments, terrorist organizations, and global intelligence networks from the shadows. As every mission uncovers another layer of Kuro's carefully orchestrated conspiracy, Alex must investigate crime scenes, solve hidden clues, and outthink an enemy who is always one move ahead. To stop a global catastrophe, Shadow Six must expose the truth behind the mysterious **Black Protocol** before Kuro's final move changes the world forever.
 
-Players take control of **H-01 (Helios)**, the last Guardian Prototype, fighting alongside the Shadow Breach Unit to liberate humanity, recover the Omni Eye, and defeat Aegis in an epic cinematic campaign.
+---
+
+# SAVIOUR
+
+**Genre:** Story-Driven Fantasy Action Adventure
+
+### Overview
+
+In an ancient world protected by the sacred **Tree of Souls**, darkness rises as the Immortal King seeks to corrupt the balance between life and death. Chosen by the ancient Gurus and blessed by the mystical **Blue Bracelet**, a lone wolf guardian transforms into the legendary **Saviour** and embarks on a perilous journey to unite the Four Islands, recover the Divine Weapons, and awaken the power of the Tree of Souls. Facing powerful beasts, legendary warriors, and ancient gods, Saviour must embrace his destiny to restore peace before the world is consumed by darkness.
+
 
 ---
 
