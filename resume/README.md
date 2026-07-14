@@ -31,21 +31,28 @@ AI & Design Tools
 •	AI Image Generation Tools
 •	AI-Assisted Concept Development
 ________________________________________
-FEATURED GAME DESIGN PROJECTS
-BREATH OF SHADOWS
-Genre: Sci-Fi First-Person Shooter (FPS)
-Role: Game Designer | Narrative Designer | Mission Designer
+FEATURED GAME DESIGN PROJECT
+BLACK PROTOCOL
+
+Genre: Tactical Action Thriller | Third-Person Shooter | Investigation
+
+Role: Game Designer | Narrative Designer | Mission Designer | Level Designer
+
 Project Description
-Designed an original story-driven sci-fi FPS game concept featuring cinematic storytelling, mission-based progression, tactical combat, immersive world-building, and character-driven gameplay. Created the overall narrative, mission flow, gameplay systems, weapon progression, and design documentation for the project.
+
+Designed an original story-driven tactical action thriller combining cinematic storytelling, military operations, detective investigation, stealth gameplay, and large-scale action sequences. Created the complete narrative, mission progression, gameplay systems, investigation mechanics, enemy encounters, level concepts, and comprehensive game design documentation centered around the psychological conflict between Captain Alex Kane and the criminal mastermind Kuro.
+
 Key Contributions
-•	Designed the complete game story from beginning to ending.
-•	Designed the mission structure and gameplay progression.
-•	Created gameplay mechanics for combat, exploration, and mission objectives.
-•	Designed playable characters, supporting characters, and enemy factions.
-•	Planned weapon progression and combat balance throughout the campaign.
-•	Developed the game's world-building, locations, lore, and narrative structure.
-________________________________________
-Here's a matching entry for SAVIOUR in the same style as your Story-Driven Military FPS project.
+Designed the complete game story from opening cinematic to post-credit ending.
+Created six interconnected story-driven missions with investigation, tactical combat, stealth, vehicle chases, and boss encounters.
+Designed the Detective Board system for crime scene investigation, evidence collection, clue analysis, and mission progression.
+Developed core gameplay mechanics for third-person shooting, stealth infiltration, tactical combat, environmental interaction, and cinematic action sequences.
+Designed playable characters, supporting cast, enemy factions, elite bosses, and the primary antagonist with unique gameplay roles.
+Planned weapon progression, gadgets, tactical equipment, vehicles, and combat encounters throughout the campaign.
+Designed immersive locations including Black Market, Crimson Port, Ghost Embassy, Silent Prison, Arctic Missile Base, Geneva Peace Summit, and High-Speed Train finale.
+Created mission objectives, level flow, gameplay pacing, scripted events, and cinematic storytelling.
+Developed the game's world-building, conspiracy narrative, character arcs, and complete Game Design Document (GDD).
+
 ________________________________________
 SAVIOUR 
 Genre: Fantasy Action-Adventure
